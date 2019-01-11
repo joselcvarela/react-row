@@ -1,6 +1,6 @@
 {
   "name": "react-row",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Define gutter and column width and set indexed children",
   "main": "dist/index.js",
   "keywords": [
@@ -19,7 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "react": "^16.7.0",
-    "react-inln": "^1.1.1"
+    "react-inln": "^1.1.2"
   },
   "scripts": {
     "build": "babel src/index.js -o dist/index.js"
